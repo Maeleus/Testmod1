@@ -1,5 +1,15 @@
 [
 	{
+		"name": "Warrior",
+		"unitType": "Melee",
+		"movement": 3,
+		"strength": 10,
+		"cost" 40,
+		"upgradesTo": "Swordsman"
+		"obsoleteTech": "Metal Casting",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+	},
+	{
 		"name": "Mortar",
 		"unitType": "Ranged",
 		"replaces": "Gatling Gun",
