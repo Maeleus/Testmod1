@@ -2,11 +2,22 @@
 	{
 		"name": "Warrior",
 		"unitType": "Melee",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"upgradesTo": "Swordsman"
+		"obsoleteTech": "Metal Casting",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"]
+	},
+	{
+		"name": "Sentinel",
+		"unitType": "Melee",
+		"replaces": "Warrior",
 		"movement": 3,
 		"strength": 10,
 		"cost": 40,
 		"upgradesTo": "Swordsman"
 		"obsoleteTech": "Metal Casting",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"]
+		"uniques" : ["[+1] Sight"]
 	}
 ]
