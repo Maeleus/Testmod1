@@ -13,6 +13,7 @@
 		"name": "Sentinel",
 		"unitType": "Melee",
 		"replaces": "Warrior",
+		"uniqueTo": "Arabia",
 		"movement": 3,
 		"strength": 10,
 		"cost": 40,
