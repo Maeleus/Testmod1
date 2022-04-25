@@ -7,6 +7,6 @@
 		"cost": 40,
 		"upgradesTo": "Swordsman"
 		"obsoleteTech": "Metal Casting",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"uniques" : "May upgrade to [Spearman] through ruins-like effects"
 	}
 ]
