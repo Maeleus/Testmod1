@@ -4,7 +4,7 @@
 		"unitType": "Melee",
 		"movement": 3,
 		"strength": 10,
-		"cost" 40,
+		"cost": 40,
 		"upgradesTo": "Swordsman"
 		"obsoleteTech": "Metal Casting",
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
@@ -17,10 +17,10 @@
 		"movement": 2,
 		"strength": 15,
 		"rangedStrength": 30,
-		"cost" 225,
+		"cost": 225,
 		"requiredTech": "Industialization",
 		"upgradesTo": "Howitzer"
-		"uniques": "Ranged attacks may be performed over obstacles"
+		"uniques": ["Ranged attacks may be performed over obstacles"],
 		"obsoleteTech": "Ballistics",
 		"attackSound": "machinegun",
 	},
@@ -32,10 +32,10 @@
 		"movement": 2,
 		"strength": 25,
 		"rangedStrength": 50,
-		"cost" 390,
+		"cost": 390,
 		"requiredTech": "Ballistics",
 		"upgradesTo": "Rocket Artillery",
-		"uniques": "Ranged attacks may be performed over obstacles"
+		"uniques": ["Ranged attacks may be performed over obstacles"],
 		"obsoleteTech": "Rocketry",
 		"attackSound": "machinegun",
 	},
