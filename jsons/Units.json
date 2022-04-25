@@ -8,35 +8,5 @@
 		"upgradesTo": "Swordsman"
 		"obsoleteTech": "Metal Casting",
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
-	},
-	{
-		"name": "Mortar",
-		"unitType": "Ranged",
-		"replaces": "Gatling Gun",
-		"range": 2,
-		"movement": 2,
-		"strength": 15,
-		"rangedStrength": 30,
-		"cost": 225,
-		"requiredTech": "Industialization",
-		"upgradesTo": "Howitzer"
-		"uniques": ["Ranged attacks may be performed over obstacles"],
-		"obsoleteTech": "Ballistics",
-		"attackSound": "machinegun",
-	},
-	{
-		"name": "Howitzer",
-		"unitType": "Ranged",
-		"replaces": "Machine Gun",
-		"range": 2,
-		"movement": 2,
-		"strength": 25,
-		"rangedStrength": 50,
-		"cost": 390,
-		"requiredTech": "Ballistics",
-		"upgradesTo": "Rocket Artillery",
-		"uniques": ["Ranged attacks may be performed over obstacles"],
-		"obsoleteTech": "Rocketry",
-		"attackSound": "machinegun",
-	},
+	}
 ]
