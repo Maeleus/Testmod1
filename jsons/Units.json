@@ -5,9 +5,8 @@
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
-		"upgradesTo": "Swordsman"
+		"upgradesTo": ["Spearman","Swordsman"],
 		"obsoleteTech": "Metal Casting",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"]
 	},
 	{
 		"name": "Sentinel",
