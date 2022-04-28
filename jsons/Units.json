@@ -18,6 +18,6 @@
 		"cost": 40,
 		"upgradesTo": "Swordsman",
 		"obsoleteTech": "Metal Casting",
-		"promotions" : ["Field Marshall I"]
+		"promotions" : ["Field Marshall I", "Field Marshall II]
 	}
 ]
