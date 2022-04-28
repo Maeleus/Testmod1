@@ -2,11 +2,11 @@
   {
     "name": "Field Marshall I",
     "uniques": ["Bonus for units in 2 tile radius 15%"],
-    "unitTypes": [melee]
+    "unitTypes": ["melee"]
   },
   {
     "name": "Field Marshall II",
     "uniques": ["Bonus for units in 2 tile radius 15%"],
-    "unitTypes": [melee]
+    "unitTypes": ["melee"]
   },
 ]
