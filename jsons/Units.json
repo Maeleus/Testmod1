@@ -18,6 +18,6 @@
 		"cost": 40,
 		"upgradesTo": "Swordsman"
 		"obsoleteTech": "Metal Casting",
-		"uniques" : ["Bonus for units in 2 tile radius 15%"]
+		"uniques" : ["Bonus for units in 3 tile radius 20%"]
 	}
 ]
