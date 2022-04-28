@@ -16,7 +16,7 @@
 		"movement": 3,
 		"strength": 10,
 		"cost": 40,
-		"upgradesTo": "Swordsman"
+		"upgradesTo": "Swordsman",
 		"obsoleteTech": "Metal Casting",
 		"promotions" : ["Field Marshall I","Field Marshall II"]
 	}
