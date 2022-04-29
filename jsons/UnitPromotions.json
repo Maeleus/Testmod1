@@ -1,12 +1,14 @@
 [
   {
-    "name": "Field Marshall I",
+    "name": "Field Marshall",
+    "prerequisites": ["Accuracy III","Barrage III","Shock III","Drill III"],
     "uniques": ["Bonus for units in 2 tile radius 15%"],
-    "unitTypes": ["melee"]
+    "unitTypes": ["Melee","Gunpowder","Mounted","Armor","Armored","Ranged","Mounted Ranged","Siege"]
   },
   {
-    "name": "Field Marshall II",
+    "name": "Flag Ship",
+    "prerequisites": ["Boarding Party III","Coastal Raider III","Wolfpack III","Armor Plating III","Flight Deck III","Bombardment III","Targeting III"],
     "uniques": ["Bonus for units in 2 tile radius 15%"],
-    "unitTypes": ["melee"]
+    "unitTypes": ["WaterMelee","Melee Water","WaterSubmarine","Submarine","WaterAircraftCarrier","Aircraft Carrier","WaterRanged","Ranged Water"]
   },
 ]
